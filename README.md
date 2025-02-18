@@ -1,4 +1,4 @@
-# Acme Rocket - Tailwind CSS Website
+# Tailwind CSS Website
 
 This is a responsive landing page built with Tailwind CSS, showcasing various rocket products from Acme Rockets. The page includes sections for a hero introduction, rocket products, customer testimonials, and a contact form. It is designed with modern web design principles, using Tailwind's utility-first classes for styling.
 
@@ -30,6 +30,3 @@ This is a responsive landing page built with Tailwind CSS, showcasing various ro
    npm run build
    ```
 4. Open the `index.html` file in your browser to view the page.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
